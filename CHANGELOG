@@ -1,3 +1,7 @@
+Version 2.16
+============
+    * Fixed issue 31: things like '-?' were not properly parsed.
+
 Version 2.15
 ============
     * Fixed issue 26: linker issues under Mac OSX.
